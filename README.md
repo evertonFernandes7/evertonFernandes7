@@ -1,6 +1,6 @@
 <div align="center">
     <h2>
-      💻Front-End Developer
+      💻Full Stack Developer React | NodeJS
        <br>
       📖Cursando 3° Período De Engenharia De Software.
     </h2>
